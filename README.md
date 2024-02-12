@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="left">
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20binniejung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<br>
+### 👋 Hi there 👋
+I'm Yebin Jung, a growing developer.🌱
+## 🔨  Technology Stack 🔨
+    <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Backend -->
+        <p><strong>Backend</strong></p>
+        <div>
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+        </div>
+    </div>
+</div>
 
-<!--
-**benniejung/benniejung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
