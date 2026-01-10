@@ -1,26 +1,67 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20binniejung's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
-<br>
-<div align="left">
-
-### 👋 Hi there 👋
-I'm Yebin Jung, a growing developer.🌱
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=benniejung's%20Github&animation=twinkling&fontSize=30&fontAlignY=50&fontAlign=50&height=250)
 
 ## 🔨  Technology Stack 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-<!-- language -->
-<p><strong>Language</strong></p>
-<div>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-</div>
-<div>
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-</div>
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
-</div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Category</strong></td>
+    <td align="center"><strong>Tech Stack</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benniejung&exclude_repo=20210844_20210862&layout=donut&title_color=695A5A&text_color=695A5A&icon_color=E38193&bg_color=ffffff&hide_border=false" alt="Top Langs"  width=380 />
+### ✍️ Currently Learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,docker,nestjs,spring" />
+  </a>
+</p>
+    
+
+### 🔥 Interests
+
+**Software Architecture & Design Patterns**
+
+**Open Source Contribution**
+
+
 </div>
